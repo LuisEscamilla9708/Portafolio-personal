@@ -409,3 +409,116 @@ font-size: 20px;
     
     }
 }
+
+
+
+@media screen and (max-width: 760px) {
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+}
+}
+@media screen and (max-width: 760px) {
+.carouselExampleCaptions{
+    width: 460px;
+    display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+}
+@media screen and (max-width: 760px) {
+.ImagenCarrusel{
+    width: 260px;
+    display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+}
+@media screen and (max-width: 760px) {
+.carousel-control-prev{
+    margin-left: 90px;
+}
+
+.carousel-control-next{
+    margin-right: 90px;
+}
+}
+@media screen and (max-width: 760px) {
+.contenedorContacto{
+    width: 370px;
+    height: 400px;
+    
+}
+.contenedorContacto h5 {
+    font-size: 30px;
+    margin-top: 300px;
+    
+}
+.contacto{
+    width: 300px;
+    height: 150px;
+    margin-left: 10px;
+}
+.ContenedorImagenes{
+    margin-top: 150px;
+}
+}
+@media screen and (max-width: 760px) {
+.caja1 h1{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: rgb(4, 6, 7);
+    font-family: 'Rubik Dirt',cursive;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+.caja2 h4{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family:serif;
+    font-size: 10px;
+    padding-top: 20px;
+}
+
+.caja3 h4{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family:serif;
+    font-size: 10px;
+    padding-top: 20px;
+}
+}
+@media screen and (max-width: 760px) {
+.ImagenFinal1 {
+    width: 25PX;
+height:25PX;
+
+}
+.ImagenFinal2 {
+    width: 25PX;
+height:25PX;
+
+}
+.ImagenFinal3 {
+    width: 25PX;
+height:25PX;
+
+}
+.ImagenFinal4 {
+    width: 25PX;
+height:25PX;
+
+}
+.ImagenFinal5 {
+    width: 25PX;
+height:25PX;
+
+}
+}
